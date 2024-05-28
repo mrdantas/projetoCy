@@ -4,7 +4,7 @@ module.exports = defineConfig({
   e2e: {
     viewportHeight: 1080,
     viewportWidth: 1920,
-    baseUrl: 'https://example.cypres.io',
+    baseUrl: 'https://petstore.swagger.io/v2',
 
     // eslint-disable-next-line
     setupNodeEvents(on, config) {
